@@ -1,0 +1,17 @@
+1. ls -m is listing the files in current directory, separated by commas.
+
+2. I found my home directory by using 'echo $HOME', which gave me:
+   /home/groven . I am using the CSE VM. 
+
+3. The output of the command 'date' is: 
+   Tue Oct  3 16:03:47 PDT 2017
+
+4. Only root and my user, groven, have home directories.
+
+5. 3.10.0-693.2.2.el7.x86_64
+
+Task 4
+
+1. mv MyProgram.java ./java
+
+2. cd /var, then ls -r 
