@@ -1,0 +1,13 @@
+1. cp MyProgram.java ./java 
+2. ls -r /var
+3. ls -l 
+4. cal 11 2018
+5. mv Burrot.java Borat.java
+6. rm diff.html diff.css
+7. touch -d '1 January 2017 04:15' MyProgram.java
+8. ls *html *css
+9. cp *txt ./java
+10. cat lyrics.txt
+11. cat song*txt
+12. head -8 animals.txt
+13. wc -l song3.txt
