@@ -1,0 +1,15 @@
+Nikhil Grover
+CSE391
+Homework 2
+
+Task 1
+
+1. /usr/bin/wc
+
+2. 2320 files in bin
+
+3. Just 2, likely myself and root, since I am using a local CSE VM instance rather than attu.
+
+4. lrwxrwxrwx 1 groven groven   10 Oct 17 00:35 link_to_lyrics.txt -> lyrics.txt
+
+5. lyrics.txt is also modified. 
