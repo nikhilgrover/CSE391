@@ -1,4 +1,10 @@
 /*
+ * Nikhil Grover
+ * CSE391
+ * Homework 2
+ *
+ * Task 2
+ *
  * Backwards.java takes command line arguments 
  * and prints back the argument, with each string backwards
  */
