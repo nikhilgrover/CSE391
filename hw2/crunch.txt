@@ -1,0 +1,2 @@
+Hello, output file!
+This file was produced by the Crunch Java program.
